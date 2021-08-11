@@ -1,0 +1,7 @@
+[06-Jun-2020 15:51:52 America/Chicago] PHP Warning:  include(../model/Horario.php): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/utils/printReceipt.php on line 20
+[06-Jun-2020 15:51:52 America/Chicago] PHP Warning:  include(../model/Horario.php): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/utils/printReceipt.php on line 20
+[06-Jun-2020 15:51:52 America/Chicago] PHP Warning:  include(): Failed opening '../model/Horario.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/utils/printReceipt.php on line 20
+[06-Jun-2020 15:51:52 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Horario' not found in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/utils/printReceipt.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/utils/printReceipt.php on line 21

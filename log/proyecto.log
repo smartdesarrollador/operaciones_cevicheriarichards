@@ -1,0 +1,45 @@
+Fecha: 2019-12-17 18:33:25
+Archivo: C:\xampp1\htdocs\admiRichards\model\AccesoBD.class.php
+Linea: 8
+Mensaje: No se pudo conectar al Servidor No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+
+
+Fecha: 2019-12-17 18:33:29
+Archivo: C:\xampp1\htdocs\admiRichards\model\AccesoBD.class.php
+Linea: 8
+Mensaje: No se pudo conectar al Servidor No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+
+
+Fecha: 2019-12-17 18:33:33
+Archivo: C:\xampp1\htdocs\admiRichards\model\AccesoBD.class.php
+Linea: 8
+Mensaje: No se pudo conectar al Servidor No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+
+
+Fecha: 2019-12-20 00:15:04
+Archivo: C:\xampp1\htdocs\admiRichards\model\AccesoBD.class.php
+Linea: 8
+Mensaje: No se pudo conectar al Servidor No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+
+
+Fecha: 2019-12-20 00:15:16
+Archivo: C:\xampp1\htdocs\admiRichards\model\AccesoBD.class.php
+Linea: 8
+Mensaje: No se pudo conectar al Servidor No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+
+
+Fecha: 2020-01-03 17:52:39
+Archivo: C:\xampp1\htdocs\admiRichards\model\AccesoBD.class.php
+Linea: 24
+Mensaje: Error en la consulta Unknown column 'correo' in 'where clause'
+
+Fecha: 2020-01-03 17:52:39
+Archivo: C:\xampp1\htdocs\admiRichards\model\AccesoBD.class.php
+Linea: 24
+Mensaje: SELECT * FROM productos where correo = '5'
+
+Fecha: 2020-05-19 03:43:56
+Archivo: /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php
+Linea: 8
+Mensaje: No se pudo conectar al Servidor Access denied for user 'root'@'localhost' (using password: NO)
+

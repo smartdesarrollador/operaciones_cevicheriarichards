@@ -1,0 +1,282 @@
+[19-Sep-2020 21:50:52 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[19-Sep-2020 16:50:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:5
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Pedido.php(21): AccesoBD::ConexionBD(Array)
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/updatePedidos.php(3): Pedido->__construct()
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 5
+[19-Sep-2020 21:50:57 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[19-Sep-2020 16:50:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:5
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Pedido.php(21): AccesoBD::ConexionBD(Array)
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/updatePedidos.php(3): Pedido->__construct()
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 5
+[19-Sep-2020 21:51:02 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[19-Sep-2020 16:51:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:5
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Pedido.php(21): AccesoBD::ConexionBD(Array)
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/updatePedidos.php(3): Pedido->__construct()
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 5
+[19-Sep-2020 21:51:11 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[19-Sep-2020 16:51:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:5
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Pedido.php(21): AccesoBD::ConexionBD(Array)
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/updatePedidos.php(3): Pedido->__construct()
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 5
+[19-Sep-2020 21:51:12 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[19-Sep-2020 16:51:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:5
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Pedido.php(21): AccesoBD::ConexionBD(Array)
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/updatePedidos.php(3): Pedido->__construct()
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 5
+[19-Sep-2020 21:51:17 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[19-Sep-2020 16:51:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:5
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Pedido.php(21): AccesoBD::ConexionBD(Array)
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/updatePedidos.php(3): Pedido->__construct()
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 5
+[19-Sep-2020 21:51:22 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[19-Sep-2020 16:51:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:5
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Pedido.php(21): AccesoBD::ConexionBD(Array)
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/updatePedidos.php(3): Pedido->__construct()
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 5
+[19-Sep-2020 21:51:27 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[19-Sep-2020 16:51:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:5
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Pedido.php(21): AccesoBD::ConexionBD(Array)
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/updatePedidos.php(3): Pedido->__construct()
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 5
+[19-Sep-2020 16:51:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:5
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Pedido.php(21): AccesoBD::ConexionBD(Array)
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/updatePedidos.php(3): Pedido->__construct()
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 5
+[19-Sep-2020 16:51:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:5
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Pedido.php(21): AccesoBD::ConexionBD(Array)
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/updatePedidos.php(3): Pedido->__construct()
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 5
+[19-Sep-2020 16:51:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:5
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Pedido.php(21): AccesoBD::ConexionBD(Array)
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/updatePedidos.php(3): Pedido->__construct()
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 5
+[26-Apr-2021 12:35:35 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 35
+[26-Apr-2021 12:35:35 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php on line 56
+[26-Apr-2021 12:35:35 America/Chicago] PHP Fatal error:  Uncaught Exception: Error en la consulta You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '¿ %' AND estado = 'ACTIVO' ORDER BY idProducto ASC' at line 1 in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:24
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php(49): AccesoBD::Consultar(Object(mysqli), 'SELECT * FROM p...')
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/buscarProductos.php(9): Producto->getProductosBySearch('0.dtyui0'\xC2\xBF ')
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 24
+[26-Apr-2021 12:35:35 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 35
+[26-Apr-2021 12:35:35 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php on line 56
+[26-Apr-2021 12:35:35 America/Chicago] PHP Fatal error:  Uncaught Exception: Error en la consulta You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '¿ %' AND estado = 'ACTIVO' ORDER BY idProducto ASC' at line 1 in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:24
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php(49): AccesoBD::Consultar(Object(mysqli), 'SELECT * FROM p...')
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/buscarProductos.php(9): Producto->getProductosBySearch('0.dtyui0'\xC2\xBF ')
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 24
+[26-Apr-2021 12:35:36 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 35
+[26-Apr-2021 12:35:36 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php on line 56
+[26-Apr-2021 12:35:36 America/Chicago] PHP Fatal error:  Uncaught Exception: Error en la consulta You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '¿'23456 %' AND estado = 'ACTIVO' ORDER BY idProducto ASC' at line 1 in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:24
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php(49): AccesoBD::Consultar(Object(mysqli), 'SELECT * FROM p...')
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/buscarProductos.php(9): Producto->getProductosBySearch('0.dtyui0'\xC2\xBF'234...')
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 24
+[26-Apr-2021 12:35:36 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 35
+[26-Apr-2021 12:35:36 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php on line 56
+[26-Apr-2021 12:35:36 America/Chicago] PHP Fatal error:  Uncaught Exception: Error en la consulta You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '¿'234567 %' AND estado = 'ACTIVO' ORDER BY idProducto ASC' at line 1 in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:24
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php(49): AccesoBD::Consultar(Object(mysqli), 'SELECT * FROM p...')
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/buscarProductos.php(9): Producto->getProductosBySearch('0.dtyui0'\xC2\xBF'234...')
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 24
+[26-Apr-2021 12:35:36 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 35
+[26-Apr-2021 12:35:36 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php on line 56
+[26-Apr-2021 12:35:36 America/Chicago] PHP Fatal error:  Uncaught Exception: Error en la consulta You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '¿'2345678 %' AND estado = 'ACTIVO' ORDER BY idProducto ASC' at line 1 in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:24
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php(49): AccesoBD::Consultar(Object(mysqli), 'SELECT * FROM p...')
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/buscarProductos.php(9): Producto->getProductosBySearch('0.dtyui0'\xC2\xBF'234...')
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 24
+[26-Apr-2021 12:35:36 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 35
+[26-Apr-2021 12:35:36 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php on line 56
+[26-Apr-2021 12:35:36 America/Chicago] PHP Fatal error:  Uncaught Exception: Error en la consulta You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '¿'2345678 %' AND estado = 'ACTIVO' ORDER BY idProducto ASC' at line 1 in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:24
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php(49): AccesoBD::Consultar(Object(mysqli), 'SELECT * FROM p...')
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/buscarProductos.php(9): Producto->getProductosBySearch('0.dtyui0'\xC2\xBF'234...')
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 24
+[26-Apr-2021 12:35:36 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 35
+[26-Apr-2021 12:35:36 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php on line 56
+[26-Apr-2021 12:35:36 America/Chicago] PHP Fatal error:  Uncaught Exception: Error en la consulta You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '¿' %' AND estado = 'ACTIVO' ORDER BY idProducto ASC' at line 1 in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:24
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php(49): AccesoBD::Consultar(Object(mysqli), 'SELECT * FROM p...')
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/buscarProductos.php(9): Producto->getProductosBySearch('0.dtyui0'\xC2\xBF' ')
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 24
+[26-Apr-2021 12:35:36 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 35
+[26-Apr-2021 12:35:36 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php on line 56
+[26-Apr-2021 12:35:36 America/Chicago] PHP Fatal error:  Uncaught Exception: Error en la consulta You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '¿'2345678 %' AND estado = 'ACTIVO' ORDER BY idProducto ASC' at line 1 in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:24
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php(49): AccesoBD::Consultar(Object(mysqli), 'SELECT * FROM p...')
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/buscarProductos.php(9): Producto->getProductosBySearch('0.dtyui0'\xC2\xBF'234...')
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 24
+[26-Apr-2021 12:35:36 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 35
+[26-Apr-2021 12:35:36 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php on line 56
+[26-Apr-2021 12:35:36 America/Chicago] PHP Fatal error:  Uncaught Exception: Error en la consulta You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '¿'2345 %' AND estado = 'ACTIVO' ORDER BY idProducto ASC' at line 1 in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:24
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php(49): AccesoBD::Consultar(Object(mysqli), 'SELECT * FROM p...')
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/buscarProductos.php(9): Producto->getProductosBySearch('0.dtyui0'\xC2\xBF'234...')
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 24
+[26-Apr-2021 12:35:36 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 35
+[26-Apr-2021 12:35:36 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php on line 56
+[26-Apr-2021 12:35:36 America/Chicago] PHP Fatal error:  Uncaught Exception: Error en la consulta You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '¿' %' AND estado = 'ACTIVO' ORDER BY idProducto ASC' at line 1 in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:24
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php(49): AccesoBD::Consultar(Object(mysqli), 'SELECT * FROM p...')
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/buscarProductos.php(9): Producto->getProductosBySearch('0.dtyui0'\xC2\xBF' ')
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 24
+[26-Apr-2021 12:35:36 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 35
+[26-Apr-2021 12:35:36 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 35
+[26-Apr-2021 12:35:36 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php on line 56
+[26-Apr-2021 12:35:36 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php on line 56
+[26-Apr-2021 12:35:36 America/Chicago] PHP Fatal error:  Uncaught Exception: Error en la consulta You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '¿'23 %' AND estado = 'ACTIVO' ORDER BY idProducto ASC' at line 1 in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:24
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php(49): AccesoBD::Consultar(Object(mysqli), 'SELECT * FROM p...')
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/buscarProductos.php(9): Producto->getProductosBySearch('0.dtyui0'\xC2\xBF'23 ')
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 24
+[26-Apr-2021 12:35:36 America/Chicago] PHP Fatal error:  Uncaught Exception: Error en la consulta You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '¿'2345678 %' AND estado = 'ACTIVO' ORDER BY idProducto ASC' at line 1 in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:24
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php(49): AccesoBD::Consultar(Object(mysqli), 'SELECT * FROM p...')
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/buscarProductos.php(9): Producto->getProductosBySearch('0.dtyui0'\xC2\xBF'234...')
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 24
+[26-Apr-2021 12:35:37 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 35
+[26-Apr-2021 12:35:37 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php on line 56
+[26-Apr-2021 12:35:37 America/Chicago] PHP Fatal error:  Uncaught Exception: Error en la consulta You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '¿'2345678'¿ %' AND estado = 'ACTIVO' ORDER BY idProducto ASC' at line 1 in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:24
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php(49): AccesoBD::Consultar(Object(mysqli), 'SELECT * FROM p...')
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/buscarProductos.php(9): Producto->getProductosBySearch('0.dtyui0'\xC2\xBF'234...')
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 24
+[26-Apr-2021 12:35:37 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 35
+[26-Apr-2021 12:35:37 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php on line 56
+[26-Apr-2021 12:35:37 America/Chicago] PHP Fatal error:  Uncaught Exception: Error en la consulta You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '¿'2345678'¿65 %' AND estado = 'ACTIVO' ORDER BY idProducto ASC' at line 1 in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:24
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php(49): AccesoBD::Consultar(Object(mysqli), 'SELECT * FROM p...')
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/buscarProductos.php(9): Producto->getProductosBySearch('0.dtyui0'\xC2\xBF'234...')
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 24
+[26-Apr-2021 12:35:37 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 35
+[26-Apr-2021 12:35:37 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php on line 56
+[26-Apr-2021 12:35:37 America/Chicago] PHP Fatal error:  Uncaught Exception: Error en la consulta You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '¿'2345678'¿65 %' AND estado = 'ACTIVO' ORDER BY idProducto ASC' at line 1 in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:24
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php(49): AccesoBD::Consultar(Object(mysqli), 'SELECT * FROM p...')
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/buscarProductos.php(9): Producto->getProductosBySearch('0.dtyui0'\xC2\xBF'234...')
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 24
+[26-Apr-2021 12:35:37 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 35
+[26-Apr-2021 12:35:37 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php on line 56
+[26-Apr-2021 12:35:37 America/Chicago] PHP Fatal error:  Uncaught Exception: Error en la consulta You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '¿'2345678'¿65 %' AND estado = 'ACTIVO' ORDER BY idProducto ASC' at line 1 in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:24
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php(49): AccesoBD::Consultar(Object(mysqli), 'SELECT * FROM p...')
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/buscarProductos.php(9): Producto->getProductosBySearch('0.dtyui0'\xC2\xBF'234...')
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 24
+[26-Apr-2021 12:35:37 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 35
+[26-Apr-2021 12:35:37 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php on line 56
+[26-Apr-2021 12:35:37 America/Chicago] PHP Fatal error:  Uncaught Exception: Error en la consulta You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '¿'2345678'¿654 %' AND estado = 'ACTIVO' ORDER BY idProducto ASC' at line 1 in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:24
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php(49): AccesoBD::Consultar(Object(mysqli), 'SELECT * FROM p...')
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/buscarProductos.php(9): Producto->getProductosBySearch('0.dtyui0'\xC2\xBF'234...')
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 24
+[26-Apr-2021 12:35:38 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 35
+[26-Apr-2021 12:35:38 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php on line 56
+[26-Apr-2021 12:35:38 America/Chicago] PHP Fatal error:  Uncaught Exception: Error en la consulta You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '¿'2345678'¿654  %' AND estado = 'ACTIVO' ORDER BY idProducto ASC' at line 1 in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:24
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php(49): AccesoBD::Consultar(Object(mysqli), 'SELECT * FROM p...')
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/buscarProductos.php(9): Producto->getProductosBySearch('0.dtyui0'\xC2\xBF'234...')
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 24
+[26-Apr-2021 12:35:38 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 35
+[26-Apr-2021 12:35:38 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php on line 56
+[26-Apr-2021 12:35:38 America/Chicago] PHP Fatal error:  Uncaught Exception: Error en la consulta You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '¿'2345678'¿654  %' AND estado = 'ACTIVO' ORDER BY idProducto ASC' at line 1 in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:24
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php(49): AccesoBD::Consultar(Object(mysqli), 'SELECT * FROM p...')
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/buscarProductos.php(9): Producto->getProductosBySearch('0.dtyui0'\xC2\xBF'234...')
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 24
+[26-Apr-2021 12:35:38 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 35
+[26-Apr-2021 12:35:38 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php on line 56
+[26-Apr-2021 12:35:38 America/Chicago] PHP Fatal error:  Uncaught Exception: Error en la consulta You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '¿'2345678'¿654  %' AND estado = 'ACTIVO' ORDER BY idProducto ASC' at line 1 in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:24
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php(49): AccesoBD::Consultar(Object(mysqli), 'SELECT * FROM p...')
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/buscarProductos.php(9): Producto->getProductosBySearch('0.dtyui0'\xC2\xBF'234...')
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 24
+[26-Apr-2021 12:35:38 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 35
+[26-Apr-2021 12:35:38 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php on line 56
+[26-Apr-2021 12:35:38 America/Chicago] PHP Fatal error:  Uncaught Exception: Error en la consulta You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '¿'2345678'¿654  %' AND estado = 'ACTIVO' ORDER BY idProducto ASC' at line 1 in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:24
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php(49): AccesoBD::Consultar(Object(mysqli), 'SELECT * FROM p...')
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/buscarProductos.php(9): Producto->getProductosBySearch('0.dtyui0'\xC2\xBF'234...')
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 24
+[26-Apr-2021 12:35:38 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 35
+[26-Apr-2021 12:35:38 America/Chicago] PHP Warning:  error_log(log/proyecto.log): failed to open stream: No such file or directory in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php on line 56
+[26-Apr-2021 12:35:38 America/Chicago] PHP Fatal error:  Uncaught Exception: Error en la consulta You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '¿'2345678'¿654  %' AND estado = 'ACTIVO' ORDER BY idProducto ASC' at line 1 in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:24
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Producto.php(49): AccesoBD::Consultar(Object(mysqli), 'SELECT * FROM p...')
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/ajax/buscarProductos.php(9): Producto->getProductosBySearch('0.dtyui0'\xC2\xBF'234...')
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 24

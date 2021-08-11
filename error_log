@@ -1,0 +1,222 @@
+[19-May-2020 03:43:56 America/Chicago] PHP Fatal error:  Uncaught Exception: No se pudo conectar al Servidor Access denied for user 'root'@'localhost' (using password: NO) in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:8
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Pedido.php(21): AccesoBD::ConexionBD(Array)
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/dashboard.php(26): Pedido->__construct()
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 8
+[19-Sep-2020 21:50:55 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[19-Sep-2020 21:51:02 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[19-Sep-2020 21:51:03 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[19-Sep-2020 16:51:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:5
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Pedido.php(21): AccesoBD::ConexionBD(Array)
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/dashboard.php(26): Pedido->__construct()
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 5
+[19-Sep-2020 16:51:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:5
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Pedido.php(21): AccesoBD::ConexionBD(Array)
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/dashboard.php(26): Pedido->__construct()
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 5
+[19-Sep-2020 16:51:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php:5
+Stack trace:
+#0 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/Pedido.php(21): AccesoBD::ConexionBD(Array)
+#1 /home1/cevicheriarichar/operaciones.cevicheriarichards.com/dashboard.php(26): Pedido->__construct()
+#2 {main}
+  thrown in /home1/cevicheriarichar/operaciones.cevicheriarichards.com/model/AccesoBD.class.php on line 5
+[24-Jun-2021 08:07:00 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 11:27:30 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 11:27:30 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 11:27:39 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 11:28:29 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 11:28:35 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 11:28:37 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 11:28:40 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 12:36:01 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 12:36:02 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 12:36:05 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 12:47:48 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 12:47:50 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 12:47:50 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 13:53:17 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 13:53:17 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 13:53:20 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 15:19:53 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 15:19:53 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 15:19:56 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 15:19:59 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 15:55:31 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 18:25:48 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 18:25:48 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 18:25:51 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 18:26:00 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 18:26:19 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 18:48:47 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 18:48:47 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 19:06:01 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[24-Jun-2021 19:06:06 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[25-Jun-2021 04:16:09 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[25-Jun-2021 11:24:45 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[25-Jun-2021 11:24:46 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[25-Jun-2021 11:24:50 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[25-Jun-2021 11:24:54 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[25-Jun-2021 11:24:58 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[25-Jun-2021 11:25:03 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[25-Jun-2021 11:25:06 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[25-Jun-2021 13:52:06 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[25-Jun-2021 13:52:06 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[25-Jun-2021 13:52:12 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[25-Jun-2021 14:23:52 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[25-Jun-2021 14:31:57 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[25-Jun-2021 18:36:38 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[25-Jun-2021 18:36:41 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[25-Jun-2021 18:36:41 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[25-Jun-2021 18:36:43 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[25-Jun-2021 18:36:47 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[25-Jun-2021 18:36:51 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[25-Jun-2021 18:36:53 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[25-Jun-2021 18:36:56 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 11:06:15 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 11:06:16 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 11:06:19 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 11:45:46 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 11:45:47 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 11:45:56 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 11:45:59 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 11:46:03 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 11:46:05 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 11:47:22 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 11:47:23 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 12:15:06 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 12:36:14 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 12:36:25 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 13:17:41 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 13:17:42 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 13:17:46 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 13:26:45 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 13:26:48 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 13:27:01 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 13:27:07 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 13:34:31 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 13:34:36 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 13:46:54 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 15:06:58 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 15:07:14 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 15:07:14 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 15:07:17 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 15:07:20 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 15:08:27 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 15:08:28 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 15:38:12 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 16:08:06 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 16:08:18 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 16:08:18 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 16:08:21 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 19:15:49 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 19:15:50 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 19:15:52 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 21:02:36 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 21:31:31 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 21:31:32 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 21:31:36 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 21:31:43 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 21:32:38 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[26-Jun-2021 21:32:43 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 10:35:12 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 11:14:44 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 11:36:27 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 11:36:28 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 11:36:28 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 11:36:28 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 11:36:41 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 11:36:43 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 11:36:48 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 11:36:55 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 11:36:57 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 11:37:00 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 11:43:45 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 11:43:48 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 11:47:11 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 11:47:11 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 12:42:36 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 12:42:36 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 12:42:39 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 12:55:38 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 12:55:38 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 12:56:54 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 12:56:58 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 13:05:45 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 13:05:49 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 13:05:54 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 13:10:42 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 13:50:56 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 13:50:57 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 13:50:59 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 14:18:07 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 14:19:34 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 14:23:34 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 14:23:38 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 14:23:41 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 14:29:14 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 14:36:22 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 14:51:00 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 14:51:04 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 15:57:22 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 15:57:23 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 15:57:26 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 16:08:11 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 16:08:15 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 16:58:30 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 17:06:49 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 17:06:50 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 17:06:52 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 17:07:08 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 18:17:42 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 18:17:43 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 18:18:21 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 18:18:26 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jun-2021 20:38:48 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[28-Jun-2021 11:11:15 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[28-Jun-2021 11:11:15 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[28-Jun-2021 11:11:30 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[28-Jun-2021 12:20:14 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[28-Jun-2021 12:38:36 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[28-Jun-2021 12:38:37 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[28-Jun-2021 12:38:39 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[28-Jun-2021 13:07:12 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[28-Jun-2021 13:46:14 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[28-Jun-2021 13:46:15 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[28-Jun-2021 13:46:18 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[28-Jun-2021 15:11:43 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[28-Jun-2021 15:25:04 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[28-Jun-2021 15:25:04 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[28-Jun-2021 15:25:07 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[28-Jun-2021 17:13:11 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[28-Jun-2021 17:13:11 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[28-Jun-2021 17:13:14 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[28-Jun-2021 18:04:13 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[28-Jun-2021 22:48:21 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[29-Jun-2021 07:25:15 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[29-Jun-2021 11:01:32 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[29-Jun-2021 11:01:32 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[29-Jun-2021 11:01:37 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[29-Jun-2021 11:02:15 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[29-Jun-2021 11:02:18 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[29-Jun-2021 12:14:36 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[29-Jun-2021 12:14:36 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[29-Jun-2021 12:14:56 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[29-Jun-2021 12:31:02 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[29-Jun-2021 12:48:24 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0

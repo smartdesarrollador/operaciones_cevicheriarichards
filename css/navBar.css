@@ -1,0 +1,54 @@
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+.user {
+    margin: 7px;
+}
+
+@media (min-width: 992px) {
+    .logoWSFPC {
+        margin-left: 30px;
+        margin-top: 5px;
+        width: 75px;
+    }
+
+    .logoWSFPCImagen {
+        width: 80%;
+    }
+
+}
+
+@media (max-width: 992px) {
+
+
+}
+
+/* cambios css solo para modo vertical */
+@media only screen
+and (max-width: 736px)
+{
+
+    .logoWSFPCImagen {
+        width: 26%;
+        margin-top: 0px;
+    }
+}
+
+@media only screen
+and (min-width: 500px)
+and (max-width: 1000px) {
+
+    .logoWSFPCImagen {
+        width: 17%;
+        margin-top: 0;
+    }
+    .logoWSFPC{
+        text-align: center;
+    }
+}
+.row{
+    margin: 0px;
+
+}
